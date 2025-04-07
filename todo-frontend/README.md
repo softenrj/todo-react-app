@@ -95,3 +95,12 @@ npm run dev
 | GET    | /todos   | Get all todos     |
 | POST   | /todos   | Add a new todo    |
 | DELETE | /todos/  | Delete a todo     |
+
+## ✨ UI Preview
+
+## ✨ UI Preview
+
+Optional: Add a screenshot here
+
+![Screenshot 1](screenshot/1.png)  
+![Screenshot 2](screenshot/2.png)
