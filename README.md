@@ -96,11 +96,10 @@ npm run dev
 | POST   | /todos   | Add a new todo    |
 | DELETE | /todos/  | Delete a todo     |
 
-## ✨ UI Preview
 
 ## ✨ UI Preview
 
 Optional: Add a screenshot here
 
-![Screenshot 1](screenshot/1.png)  
-![Screenshot 2](screenshot/2.png)
+![Screenshot 1](Frontend/screenshot/1.png)  
+![Screenshot 2](Frontend/screenshot/2.png)
