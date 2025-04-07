@@ -50,7 +50,7 @@ todo-app/
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com//todo-app.git](https://github.com/softenrj/todo-react-app.git)
+git clone https://github.com/softenrj/todo-react-app.git
 cd todo-app
 ```
 
