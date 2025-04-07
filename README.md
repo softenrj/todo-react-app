@@ -99,7 +99,6 @@ npm run dev
 
 ## ✨ UI Preview
 
-Optional: Add a screenshot here
 
 ![Screenshot 1](Frontend/screenshot/1.png)  
 ![Screenshot 2](Frontend/screenshot/2.png)
